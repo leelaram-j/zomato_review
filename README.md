@@ -1,3 +1,2 @@
-# zomato_review
-Input Template
+# Input Template
 fullname|rating|review
